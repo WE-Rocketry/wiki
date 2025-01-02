@@ -2,4 +2,4 @@
 
 This is our wiki to hold our oodles of knowledge!
 
-The default template README can be found [here](./TEMPLATE_README.md).
+This wiki is powered by [git-wiki-skeleton](./git-wiki-skeleton.md).
