@@ -1,6 +1,8 @@
-# git-wiki-skeleton
+# wiki
 
-NOTE: it's fully supported by github platform, you don't need to install anything locally
+This is our wiki to hold our oodles of knowledge!
+
+## Template: git-wiki-skeleton
 
 This is a [skeleton](skeleton) repository that can be used as a template to bootstrap your wiki using "[remote_theme](https://github.com/benbalter/jekyll-remote-theme)" config
 
@@ -8,7 +10,7 @@ For documentation, installation guide and demo of git-wiki-theme visit [THIS PAG
 
 To report an issue, please use the [git-wiki-theme issues](https://github.com/Drassil/git-wiki-theme/issues)
 
-## The git-wiki project
+### The git-wiki project
 
 The git-wiki project is composed by 3 different repository:
 
