@@ -2,7 +2,7 @@
 
 This is our wiki to hold our oodles of knowledge!
 
-Start by reading up on our [history].
+Start by reading up on our [history](history.md).
 
 
 --------------------------------------------------------------------
