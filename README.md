@@ -4,7 +4,7 @@ This is our wiki to hold our oodles of knowledge!
 
 ## Contents
 
-Start by reading up on our [history](history.md).
+Start by reading up on our .
 
 ## Contributing
 
